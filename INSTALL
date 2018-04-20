@@ -1,0 +1,5 @@
+Building Instantcoin
+
+See doc/build-*.md for instructions on building instantcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Instantcoin.

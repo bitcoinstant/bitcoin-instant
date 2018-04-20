@@ -12,11 +12,6 @@ P2P Port = 17331
 
 addnode=bti1.instant.industries
 
-addnode=seed.getbitcoininstant.com
-
-addnode=seed.getbitcoininstant.net
-
-addnode=bitcoin.instant.institute
 
 
 # BUILD INSTRUCTIONS

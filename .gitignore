@@ -1,0 +1,6 @@
+*.a
+*.o
+
+src/instantcoind
+src/instantcoin-cli
+src/qt/instantcoin-qt
