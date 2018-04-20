@@ -16,6 +16,10 @@ addnode=bti1.instant.industries
 
 # BUILD INSTRUCTIONS
 
+git clone https://github.com/bitcoinstant/bitcoin-instant.git
+
+cd bitcoin-instant
+
 sudo apt-get install build-essential
 
 sudo apt-get install libtool autotools-dev autoconf libssl-dev
