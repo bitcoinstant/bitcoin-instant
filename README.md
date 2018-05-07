@@ -13,5 +13,7 @@ Bitcoin Instant is released under the terms of the MIT license. See `COPYING` fo
 ## Build
 
 [GNU/Linux Make Instructions](https://github.com/bitcoinstant/bitcoin-instant/blob/master/doc/build-unix.md)
+
 [Windows Make Instructions](https://github.com/bitcoinstant/bitcoin-instant/blob/master/doc/build-msw.md)
+
 [OS X Make Instruction](https://github.com/bitcoinstant/bitcoin-instant/blob/master/doc/build-osx.md)
